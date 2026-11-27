@@ -4,7 +4,8 @@ A responsive, multi-page beauty salon website concept designed to showcase beaut
 
 Live Demo
 
-"View Luna Beauty Studio" (YOUR_GITHUB_PAGES_LINK_HERE)
+"View Luna Beauty Studio" 
+https://sonypro713-blip.github.io/Luna-Beauty-Studio/index.html
 
 Project Overview
 
